@@ -1,0 +1,109 @@
+{
+  "cars": [
+    {
+      "make": "Tesla",
+      "model": "3",
+      "vin": "09AGHY64352JITEG03J",
+      "metadata": {
+        "Color": "Blue",
+        "Notes": "Scratches on the back side of the car"
+      },
+      "perdayrent": {
+        "Price": 240,
+        "Discount": 5
+      },
+      "metrics": {
+        "yoymaintenancecost": 2590.76,
+        "depreciation": 2556.43,
+        "rentalcount": {
+          "lastweek": 10,
+          "yeartodate": 521
+        }
+      }
+    },
+    {
+      "make": "Audi",
+      "model": "A7",
+      "vin": "09AGHY64352JITEG98K",
+      "metadata": {
+        "Color": "Black",
+        "Notes": "Scratches on the front side of the car"
+      },
+      "perdayrent": {
+        "Price": 140,
+        "Discount": 15
+      },
+      "metrics": {
+        "yoymaintenancecost": 2190.76,
+        "depreciation": 2256.43,
+        "rentalcount": {
+          "lastweek": 4,
+          "yeartodate": 221
+        }
+      }
+    },
+    {
+      "make": "Tesla",
+      "model": "Y",
+      "vin": "09AGHY67842JITEG98B",
+      "metadata": {
+        "Color": "Blue",
+        "Notes": "A car without scratches"
+      },
+      "perdayrent": {
+        "Price": 280,
+        "Discount": 4
+      },
+      "metrics": {
+        "yoymaintenancecost": 1290,
+        "depreciation": 1256.43,
+        "rentalcount": {
+          "lastweek": 8,
+          "yeartodate": 421
+        }
+      }
+    },
+    {
+      "make": "BMW",
+      "model": "X5",
+      "vin": "09ASMY64352JITEG98K",
+      "metadata": {
+        "Color": "Black",
+        "Notes": "Scratches on the front side door"
+      },
+      "perdayrent": {
+        "Price": 220,
+        "Discount": 15
+      },
+      "metrics": {
+        "yoymaintenancecost": 1090,
+        "depreciation": 2556.43,
+        "rentalcount": {
+          "lastweek": 5,
+          "yeartodate": 121
+        }
+      }
+    },
+    {
+      "make": "Honda",
+      "model": "CRV",
+      "vin": "056GHY64352JITEG98K",
+      "metadata": {
+        "Color": "Black",
+        "Notes": "Scratches on the front side of the car"
+      },
+      "perdayrent": {
+        "Price": 120,
+        "Discount": 15
+      },
+      "metrics": {
+        "yoymaintenancecost": 1890.76,
+        "depreciation": 2356.43,
+        "rentalcount": {
+          "lastweek": 2,
+          "yeartodate": 110
+        }
+      }
+    }
+  ]
+}
