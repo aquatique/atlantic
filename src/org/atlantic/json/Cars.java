@@ -1,4 +1,4 @@
-package com.apple.interview.java.json;
+package org.atlantic.json;
 
 import java.util.List;
 

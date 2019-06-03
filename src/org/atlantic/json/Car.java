@@ -1,4 +1,4 @@
-package com.apple.interview.java.json;
+package org.atlantic.json;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
